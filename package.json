@@ -1,0 +1,25 @@
+{
+  "name": "ajs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldsgn/ajs-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldsgn/ajs-node/issues"
+  },
+  "homepage": "https://github.com/eldsgn/ajs-node#readme",
+  "dependencies": {
+    "@eldsgn/ajs": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+ }
+}
